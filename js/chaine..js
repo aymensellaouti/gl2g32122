@@ -1,3 +1,4 @@
+var name;
 chaine = "Bonjour";
    searchString = 'o';
    position = 0;
@@ -5,3 +6,5 @@ chaine = "Bonjour";
        console.log(pos);
        position = pos + searchString.length;
    }
+
+   name = 'aymen';
